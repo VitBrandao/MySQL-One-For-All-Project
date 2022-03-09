@@ -231,7 +231,7 @@ describe('Queries de seleção', () => {
     });
   });
 
-  describe('4 - Exibe a condicao do usuario se esta ativo ou inativo', () => {
+  describe.only('4 - Exibe a condicao do usuario se esta ativo ou inativo', () => {
     it('Verifica o desafio 4', async () => {
       const challengeQuery = readFileSync('desafio4.sql', 'utf8');
 
