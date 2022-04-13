@@ -20,8 +20,6 @@ O que será verificado:
 
 - Será validado se as informações sobre pessoas artistas estão na tabela normalizada.
 
-⚠️ Note que uma vez executado um teste, a sua base de dados `SpotifyClone` **será dropada**. Logo, **se atente** a salvar seu progresso nos arquivos de desafio! ⚠️
-
 ---
 
 ## Desafio 2
